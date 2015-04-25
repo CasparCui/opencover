@@ -1,7 +1,8 @@
 Version [[version]]
 #274 Use thread based buffers for performance improvement (fix)
 #283 Add visited class/method to summary entity (feature)
- 
+#287 investigate...
+
 Version 4.5.3723
 #244 support ApplicationUnderTest.Launch to propagate required OPENCOVER environment variables (feature)
 #256 support Microsoft Fakes (feature) - beta support until we bed feature in (feature)
@@ -108,5 +109,3 @@ Version 4.0.408
 Version 4.0.301.10 
 #78 - fix for endfault/endfinally
 #71 - detect disabled service
-
-
